@@ -1,5 +1,6 @@
 # building-crawler
 
+This project will be made as a micro-service to another project named 'spring-cloud'
 
 ****
 This project is mainly for praticing multiple-thread in Java.
